@@ -1,9 +1,0 @@
-	
-
-	When a user clicks the 'What'll it be' button with valid input text ---->
- 	they will be directed to the DrinkResults page.	
-
-
-    When a user clicks the 'What'll it be' button with no text or invalid text ---->
-    the button will be disabled and a pop up message will say 'Please enter 
-    a valid city name.'	
